@@ -2,6 +2,7 @@ The Rainbox
 
 Purple
 Pink
+Green
 Orange
 Blue
 Red
