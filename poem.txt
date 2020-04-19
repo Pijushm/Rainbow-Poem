@@ -5,6 +5,7 @@ Pink
 Green
 Unicorn
 Yellow
+Recycle
 Black
 Orange
 Blue
